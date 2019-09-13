@@ -26,7 +26,7 @@ Cluster Hardware Details
    * - **Arbeitsspeicher**
      - 256 GB je Node  | 1.024 GB im Cluster
    * - **SSD-Kapazität**
-     - 3840 GB je Node | 92160 GB im Cluster
+     - 23040 GB je Node | 92160 GB im Cluster
    * - **HDD-Kapazität**
      -   0 TB je Node |    0 TB im Cluster
 
