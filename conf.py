@@ -69,7 +69,7 @@ html_theme_options = {
   'display_version': False
 }
 
-html_logo = "Logo.png"
+html_logo = "NTNX_Bootcamps_Logo.png"
 html_favicon = "favicon.ico"
 
 #custom css file to override standard readthedocs template
