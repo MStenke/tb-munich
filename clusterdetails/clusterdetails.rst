@@ -18,17 +18,17 @@ Cluster Hardware Details
    * - Eigenschaft
      - Ausstattung
    * - **CPU-Modell**
-     - Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.20GHz
+     - Intel(R) Xeon(R) CPU E5-2650 v4 @ 2.20GHz
    * - **CPU-Cores**
-     - 20 Core je Node | 80 Cores im Cluster
+     - 24 Core je Node | 96 Cores im Cluster
    * - **CPU-Taktrate**
-     - 56 GHz je Node  | 224 GHz im Cluster
+     - 53 GHz je Node  | 212 GHz im Cluster
    * - **Arbeitsspeicher**
      - 256 GB je Node  | 1.024 GB im Cluster
    * - **SSD-Kapazität**
-     - 800 GB je Node | 3.200 GB im Cluster
+     - 3840 GB je Node | 92160 GB im Cluster
    * - **HDD-Kapazität**
-     -   4 TB je Node |    16 TB im Cluster
+     -   0 TB je Node |    0 TB im Cluster
 
 .. note::
   Bedenken Sie bitte, dass diese Technology-Bootcamp-Testumgebung zum einen nicht auf der neuesten Hardware basiert und das zum anderen auf Grund der Entfernung zum Lab-Datacenter entsprechende Latenzen auftreten können. Nichtsdestotrotz lassen sich mit dieser Umgebung die typischen Routineaufgaben bzgl. einer Nutanix-Cluster-Plattform mit einer ausgezeichneten User-Experience testen.
