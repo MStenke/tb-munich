@@ -10,11 +10,19 @@ Zugangs-Übersicht
 -----------------
 Die Lab Umgebung stehen physisch in der USA im Bundesstaat Arizona (Phoenix). Um auf diese zugreifen zu können wird ein Remote Zugriff benötigt.
 Hierfür stehen 2 Optionen zur Auswahl: **Pulse VPN** *ODER* **Parallel VDI Zugang.**
-Auch über Frame kann man sich einwählen: https://frame.nutanix.com/x/labs
+
 
 .. figure:: images/zugang.png
 
-Pulse Secure VPN Client (empfohlen)
+Frame Zugang (empfohlen)
+-----------------------------------
+
+.. figure:: images/Nutanix-XiFrame_color.png
+
+Um sich mit Frame auf die Demo Umgebung einzuloggen, den Link klicken: https://frame.nutanix.com/x/labs
+Die Zugangsdaten sind mit den anderen Möglichkeiten identisch.
+
+Pulse Secure VPN Client
 -----------------------------------
 
 .. note::
